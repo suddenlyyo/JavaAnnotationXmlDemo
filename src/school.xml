@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SCHOOL>
+    <address>山东济南市</address>
+    <name>实验小学</name>
+    <student grade="1">
+        <age>25</age>
+        <name>xiaoDy</name>
+        <num>001</num>
+    </student>
+    <student grade="2">
+        <age>22</age>
+        <name>xiaoWf</name>
+        <num>002</num>
+    </student>
+</SCHOOL>
