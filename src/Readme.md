@@ -1,1 +1,0 @@
-JavaAnnotationXmlDemo   是一个JAXB 的测试
